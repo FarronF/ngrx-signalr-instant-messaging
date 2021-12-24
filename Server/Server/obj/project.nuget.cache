@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WuOOZJwakirw08rt4oPv/cooM6f6xzWj8yXqHkyNd3dcmyLmd4xHo/5EpnKzdODIRjPIA7ahE83BEhRbRNLFEQ==",
+  "success": true,
+  "projectFilePath": "C:\\code\\ngrx-signalr-instant-messaging\\Server\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\flahertyf\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
